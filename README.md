@@ -8,11 +8,11 @@
 
 # `> NAREEN_`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Reverse+Engineer+%7C+Ethical+Hacker;Software+%26+App+Developer;Bot+Builder+%7C+Automation+Architect;AI+%26+Developer+Tooling;%2F%2F+Breaking+things+to+understand+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=008923&center=true&vCenter=true&multiline=false&width=600&lines=Reverse+Engineer+%7C+Ethical+Hacker;Software+%26+App+Developer;Bot+Builder+%7C+Automation+Architect;AI+%26+Developer+Tooling;%2F%2F+Breaking+things+to+understand+them)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ToTheBlankWorld&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ToTheBlankWorld&color=008923&style=flat-square&label=PROFILE+VIEWS" />
 &nbsp;
-<a href="https://github.com/ToTheBlankWorld?tab=followers"><img src="https://img.shields.io/github/followers/ToTheBlankWorld?color=00ff41&logo=github&style=flat-square&label=FOLLOWERS" /></a>
+<a href="https://github.com/ToTheBlankWorld?tab=followers"><img src="https://img.shields.io/github/followers/ToTheBlankWorld?color=008923&logo=github&style=flat-square&label=FOLLOWERS" /></a>
 
 </div>
 
@@ -81,7 +81,7 @@ status      : ONLINE ██████████ 100%
 <td width="50%" valign="top">
 
 ### `[01]` G-Attendance
-![Automation](https://img.shields.io/badge/Domain-Automation-00ff41?style=flat-square)
+![Automation](https://img.shields.io/badge/Domain-Automation-008923?style=flat-square)
 ![Python](https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square)
 
 Automated attendance management system that handles tracking, reporting, and record-keeping workflows. Built to eliminate manual overhead and integrate cleanly into existing systems.
@@ -97,7 +97,7 @@ TYPE    ▶ Automation Tool
 <td width="50%" valign="top">
 
 ### `[02]` V-Scanner
-![Security](https://img.shields.io/badge/Domain-Security-00ff41?style=flat-square)
+![Security](https://img.shields.io/badge/Domain-Security-008923?style=flat-square)
 ![Python](https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square)
 
 Automated vulnerability scanner engineered for rapid surface-area enumeration. Maps open ports, fingerprints services, and flags known CVE signatures — built for speed and accuracy.
@@ -115,7 +115,7 @@ TYPE    ▶ Offensive Security Tool
 <td width="50%" valign="top">
 
 ### `[03]` Web-Flow
-![WebDev](https://img.shields.io/badge/Domain-Web%20Dev-00ff41?style=flat-square)
+![WebDev](https://img.shields.io/badge/Domain-Web%20Dev-008923?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/Stack-JavaScript-F7DF1E?style=flat-square&logoColor=black)
 
 A structured web automation and flow-control framework. Orchestrates multi-step browser interactions and HTTP workflows with precision — from scraping pipelines to form automation.
@@ -131,7 +131,7 @@ TYPE    ▶ Web Automation
 <td width="50%" valign="top">
 
 ### `[04]` Skill-Graph-Auto-Answer
-![AI](https://img.shields.io/badge/Domain-AI%2FAutomation-00ff41?style=flat-square)
+![AI](https://img.shields.io/badge/Domain-AI%2FAutomation-008923?style=flat-square)
 ![Python](https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square)
 
 Intelligent automation system that navigates and solves skill-based graph assessments. Uses ML-driven pattern recognition to map and answer structured question flows.
@@ -157,7 +157,7 @@ TYPE    ▶ AI Automation
 &nbsp;
 [![Email](https://img.shields.io/badge/EMAIL-OPEN_TO_COLLAB-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING_SOON-00ff41?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING_SOON-008923?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
@@ -171,6 +171,6 @@ TYPE    ▶ AI Automation
 
 *`// The system is always breakable. The question is whether you understand it first.`*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=80&section=footer&reversal=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:008923&height=80&section=footer&reversal=true)
 
 </div>
