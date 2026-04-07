@@ -12,13 +12,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=ToTheBlankWorld&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ToTheBlankWorld?color=00ff41&logo=github&style=flat-square&label=FOLLOWERS)](https://github.com/ToTheBlankWorld)
+<a href="https://github.com/ToTheBlankWorld?tab=followers"><img src="https://img.shields.io/github/followers/ToTheBlankWorld?color=00ff41&logo=github&style=flat-square&label=FOLLOWERS" /></a>
 
 </div>
 
 ---
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
 
 ## `whoami`
 
@@ -42,8 +40,6 @@ interests:
 
 status      : ONLINE ██████████ 100%
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -84,7 +80,23 @@ status      : ONLINE ██████████ 100%
 <tr>
 <td width="50%" valign="top">
 
-### `[01]` V-Scanner
+### `[01]` G-Attendance
+![Automation](https://img.shields.io/badge/Domain-Automation-00ff41?style=flat-square)
+![Python](https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square)
+
+Automated attendance management system that handles tracking, reporting, and record-keeping workflows. Built to eliminate manual overhead and integrate cleanly into existing systems.
+
+```
+STATUS  ▶ Active
+TYPE    ▶ Automation Tool
+```
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/ToTheBlankWorld/G-Attendance)
+
+</td>
+<td width="50%" valign="top">
+
+### `[02]` V-Scanner
 ![Security](https://img.shields.io/badge/Domain-Security-00ff41?style=flat-square)
 ![Python](https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square)
 
@@ -98,9 +110,27 @@ TYPE    ▶ Offensive Security Tool
 [![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/ToTheBlankWorld/V-Scanner)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### `[02]` Skill-Graph-Auto-Answer
+### `[03]` Web-Flow
+![WebDev](https://img.shields.io/badge/Domain-Web%20Dev-00ff41?style=flat-square)
+![JavaScript](https://img.shields.io/badge/Stack-JavaScript-F7DF1E?style=flat-square&logoColor=black)
+
+A structured web automation and flow-control framework. Orchestrates multi-step browser interactions and HTTP workflows with precision — from scraping pipelines to form automation.
+
+```
+STATUS  ▶ Active
+TYPE    ▶ Web Automation
+```
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/ToTheBlankWorld/Web-Flow)
+
+</td>
+<td width="50%" valign="top">
+
+### `[04]` Skill-Graph-Auto-Answer
 ![AI](https://img.shields.io/badge/Domain-AI%2FAutomation-00ff41?style=flat-square)
 ![Python](https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square)
 
@@ -115,89 +145,7 @@ TYPE    ▶ AI Automation
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### `[03]` TinnyMusicBot
-![Bot](https://img.shields.io/badge/Domain-Bot%20Engineering-00ff41?style=flat-square)
-![JavaScript](https://img.shields.io/badge/Stack-Node.js-339933?style=flat-square)
-
-Feature-rich Discord music bot with queue management, audio filtering, and zero-latency playback. Engineered for scale — built to run reliably across large servers.
-
-```
-STATUS  ▶ Active
-TYPE    ▶ Discord Bot
-```
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/ToTheBlankWorld/TinnyMusicBot)
-
-</td>
-<td width="50%" valign="top">
-
-### `[04]` DevBot
-![DevTools](https://img.shields.io/badge/Domain-Developer%20Tools-00ff41?style=flat-square)
-![TypeScript](https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square)
-
-A developer-first automation bot with modular command architecture. Handles routine dev workflows, integrates with APIs, and extends easily — built for people who automate everything.
-
-```
-STATUS  ▶ Active
-TYPE    ▶ Developer Tooling
-```
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/ToTheBlankWorld/DevBot)
-
-</td>
-</tr>
 </table>
-
----
-
-## `> METRICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToTheBlankWorld&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToTheBlankWorld&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ToTheBlankWorld&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ToTheBlankWorld&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ToTheBlankWorld)
-
-</div>
-
----
-
-## `> SECURITY CLEARANCE`
-
-```
-╔══════════════════════════════════════════════════════════╗
-║              OPERATOR SKILL MATRIX v2.1                  ║
-╠══════════════════════════════════════════════════════════╣
-║  Reverse Engineering     ████████████████████░  95%      ║
-║  Ethical Hacking         ███████████████████░░  90%      ║
-║  Vulnerability Research  ██████████████████░░░  85%      ║
-║  Web Development         ████████████████████░  95%      ║
-║  Bot / Automation Dev    ████████████████████░  95%      ║
-║  App Development         █████████████████░░░░  80%      ║
-║  AI Integration          ████████████████░░░░░  78%      ║
-╠══════════════════════════════════════════════════════════╣
-║  [ CLEARANCE LEVEL: OPERATOR ]  [ ACCESS: GRANTED ]      ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-**Primary Domain:** Binary analysis · Static & dynamic reverse engineering  
-**Methodology:** OSINT · Network enumeration · Web application security · CVE research  
-**Tooling:** Ghidra · Burp Suite · Nmap · Wireshark · Metasploit · custom scripts
 
 ---
 
