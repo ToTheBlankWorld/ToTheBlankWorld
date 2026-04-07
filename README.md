@@ -8,7 +8,7 @@
 
 # `> NAREEN_`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=008923&center=true&vCenter=true&multiline=false&width=600&lines=Reverse+Engineer+%7C+Ethical+Hacker;Software+%26+App+Developer;Bot+Builder+%7C+Automation+Architect;AI+%26+Developer+Tooling;%2F%2F+Breaking+things+to+understand+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Reverse+Engineer+%7C+Ethical+Hacker;Software+%26+App+Developer;Bot+Builder+%7C+Automation+Architect;AI+%26+Developer+Tooling;%2F%2F+Breaking+things+to+understand+them)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ToTheBlankWorld&color=008923&style=flat-square&label=PROFILE+VIEWS" />
 &nbsp;
